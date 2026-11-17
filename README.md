@@ -3,10 +3,8 @@ Feedbro RSS German language
 
 You can download Feedbro at: https://nodetics.com/feedbro/
 
-In den Einstellungen von Feedbro den folgenden Link hinterlegen um die Benutzeroberfläche auf deutsch umzuschalten
+Um die Benutzeroberfläche auf Deutsch umzustellen, in den Einstellungen von Feedbro die Adresse der Sprachdatei wie folgt hinterlegen:
 
-Feedbro: Option/Settings Page -> User interface language -> Import locale
-
-https://raw.githubusercontent.com/thebugfixnet/feedbro-locale/master/feedbro-locale-de_DE.json
-
-Deutsch (de_DE) auswählen
+1. Feedbro öffnen → Options → Settings → User interface language → Import Locale
+2. Als Adresse einfügen: `https://raw.githubusercontent.com/thebugfixnet/feedbro-locale/master/feedbro-locale-de_DE.json`
+3. „Deutsch (de_DE)“ auswählen
